@@ -1,5 +1,3 @@
----
-
 # 🌟 Site Simples  
 
 Bem-vindo(a) ao **Site Simples**! Este é o meu primeiro projeto, onde explorei conceitos básicos de HTML, CSS e JavaScript para criar um site com alternância de temas claro e escuro.  
